@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshal Shirsat</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structure** 
+- 🌱 I’m currently learning **Data Structure**  
 
 - 📫 How to reach me **shirsatharshal@gmail.com**
 
