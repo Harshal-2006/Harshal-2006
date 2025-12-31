@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **shirsatharshal@gmail.com**
 
-- ⚡ Fun fact **I strictly use Dark Mode. Light Mode attracts bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
