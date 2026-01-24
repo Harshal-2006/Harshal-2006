@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shirsatharshal@gmail.com**
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harshal-2006" alt="GitHub Streak" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/harshal_v2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshal_v2" height="30" width="40" /></a>
