@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harshal Shirsat
 
-### A passionate Python developer
+### A Passionate Developer
 
 - 🌱 I'm currently learning **Artificial Intelligence and Machine Learning**
 
