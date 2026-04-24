@@ -13,9 +13,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **B.E. in Computer Engineering** @ Savitribai Phule Pune University *(2024–2028)*
-- 🤖 Ex **AI/ML Intern** @ Edunet Foundation *(Jan–Feb 2026)*
-- 🏛️ **Campus Ambassador** @ eDC IIT Delhi
-- 🏆 **TechUtsav 2025** — 3rd Prize (State Level)
+- 🤖 Ex **AI/ML Intern** *(Jan–Feb 2026)*
+- 🏆 **TechUtsav 2025** — Second Runnerup (State Level)
 - ☁️ **OCI Certified AI Associate**
 - 💡 Passionate about building AI tools that solve real problems
 - 📬 Reach me at **shirsatharshal@gmail.com**
