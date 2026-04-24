@@ -1,0 +1,33 @@
+<svg width="100%" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#16213e"/>
+      <stop offset="60%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="wf1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#64B5F6;stop-opacity:0.35"/>
+      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:0.15"/>
+    </linearGradient>
+    <linearGradient id="wf2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d47a1;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#64B5F6;stop-opacity:0.1"/>
+    </linearGradient>
+    <style>
+      .fw1 { animation: fw1anim 6s ease-in-out infinite alternate; }
+      .fw2 { animation: fw2anim 8s ease-in-out infinite alternate; }
+      @keyframes fw1anim {
+        0%   { d: path("M0,50 C150,20 300,70 450,40 C600,10 750,60 900,30 L900,0 L0,0 Z"); }
+        100% { d: path("M0,30 C150,60 300,15 450,50 C600,75 750,25 900,55 L900,0 L0,0 Z"); }
+      }
+      @keyframes fw2anim {
+        0%   { d: path("M0,65 C200,35 400,75 600,45 C750,25 850,60 900,45 L900,0 L0,0 Z"); }
+        100% { d: path("M0,45 C200,70 400,30 600,65 C750,80 850,35 900,60 L900,0 L0,0 Z"); }
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="100" fill="url(#bgf)"/>
+  <path class="fw2" fill="url(#wf2)" d="M0,65 C200,35 400,75 600,45 C750,25 850,60 900,45 L900,0 L0,0 Z"/>
+  <path class="fw1" fill="url(#wf1)" d="M0,50 C150,20 300,70 450,40 C600,10 750,60 900,30 L900,0 L0,0 Z"/>
+</svg>
